@@ -6,11 +6,11 @@
 /*   By: mrodrigo <mrodrigo@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/15 03:36:26 by mrodrigo          #+#    #+#             */
-/*   Updated: 2022/05/15 03:44:24 by mrodrigo         ###   ########.fr       */
+/*   Updated: 2022/06/12 06:00:28 by mrodrigo         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libftprintf.h"
+#include "ft_printf.h"
 
 int	ft_printf(const char *format, ...)
 {

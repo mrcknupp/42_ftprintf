@@ -6,13 +6,13 @@
 /*   By: mrodrigo <mrodrigo@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/08/15 02:54:49 by mrodrigo          #+#    #+#             */
-/*   Updated: 2021/08/17 02:03:40 by mrodrigo         ###   ########.fr       */
+/*   Updated: 2022/06/12 05:55:23 by mrodrigo         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
 
-size_t	ft_strlen(const char *s)
+int	ft_strlen(const char *s)
 {
 	size_t	i;
 
