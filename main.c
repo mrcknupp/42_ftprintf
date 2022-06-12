@@ -14,7 +14,7 @@
 
 int main(void)
 {
-	char str[6] = "Born2Beer";
+	char str[9] = "Born2Beer";
 	int a = 333;
 	ft_printf("\nHello World, %s", str);
 	ft_printf("\nNumber, %i", a);
